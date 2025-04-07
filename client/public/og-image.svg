@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="50" y="50" width="1100" height="530" rx="20" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+  <text x="600" y="200" font-family="Arial, sans-serif" font-size="80" text-anchor="middle" fill="#3b82f6" font-weight="bold">Aca.Helpers</text>
+  <text x="600" y="300" font-family="Arial, sans-serif" font-size="36" text-anchor="middle" fill="#64748b">AI-Powered Educational Content Transformation</text>
+  <path d="M400,400c-25,0-45,20-45,45s20,45,45,45s45-20,45-45S425,400,400,400z M400,470c-14,0-25-11-25-25s11-25,25-25s25,11,25,25S414,470,400,470z" fill="#3b82f6" />
+  <path d="M800,400c-25,0-45,20-45,45s20,45,45,45s45-20,45-45S825,400,800,400z M800,470c-14,0-25-11-25-25s11-25,25-25s25,11,25,25S814,470,800,470z" fill="#3b82f6" />
+  <path d="M600,410c-25,0-45,20-45,45h20c0-14,11-25,25-25s25,11,25,25h20C645,430,625,410,600,410z" fill="#3b82f6" />
+  <path d="M680,500H520c-5.5,0-10,4.5-10,10s4.5,10,10,10h160c5.5,0,10-4.5,10-10S685.5,500,680,500z" fill="#3b82f6" />
+</svg>

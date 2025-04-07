@@ -1,0 +1,4 @@
+# https://acahelper.netlify.app/
+User-agent: *
+Allow: /
+Sitemap: https://acahelper.netlify.app/sitemap.xml
